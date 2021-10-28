@@ -25,62 +25,62 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, LongWritable> {
 
     protected void setup(Context context){
         // 停词文件路径
-        Path stopWordFile = new Path("D:\\Hadoop\\code\\test_hadoop\\input\\stop-word-list.txt");
-//        Path stopWordFile = new Path("hdfs://hadoop-master:9000/user/86137/input/stop-word-list.txt");
+//        Path stopWordFile = new Path("D:\\Hadoop\\code\\test_hadoop\\input\\stop-word-list.txt");
+        Path stopWordFile = new Path("hdfs://hadoop-master:9000/user/86137/input/stop-word-list.txt");
         // 标点符号文件路径
-        Path puctFile = new Path("D:\\Hadoop\\code\\test_hadoop\\input\\punctuation.txt");
-//        Path puctFile = new Path("hdfs://hadoop-master:9000/user/86137/input/punctuation.txt");
+//        Path puctFile = new Path("D:\\Hadoop\\code\\test_hadoop\\input\\punctuation.txt");
+        Path puctFile = new Path("hdfs://hadoop-master:9000/user/86137/input/punctuation.txt");
         readWordFile(stopWordFile, puctFile);
     }
 
-//    private void readWordFile(Path stopWordFile, Path pucFile){
-//        Configuration conf = new Configuration();
-//        try{
-//            FileSystem fs = FileSystem.get(URI.create(stopWordFile.toString()),conf);
-//            InputStream is = fs.open(new Path(stopWordFile.toString()));
-//            BufferedReader reader = new BufferedReader(new InputStreamReader(is));
-//            String stopWord = null;
-//            while ((stopWord = reader.readLine()) != null) {
-//                stopWordList.add(stopWord);
-//            }
-//        }catch (IOException ioe){
-//            ioe.printStackTrace();
-//        }
-//        try{
-//            FileSystem fs = FileSystem.get(URI.create(pucFile.toString()),conf);
-//            InputStream is = fs.open(new Path(pucFile.toString()));
-//            BufferedReader reader = new BufferedReader(new InputStreamReader(is));
-//            String pucWord = null;
-//            while ((pucWord = reader.readLine()) != null) {
-//                puncWordList.add(pucWord);
-//            }
-//        }catch (IOException ioe){
-//            ioe.printStackTrace();
-//        }
-//    }
-
-    private void readWordFile(Path stopWordFile, Path pucFile) {
-        try {
-            BufferedReader fis1 = new BufferedReader(new FileReader(stopWordFile.toString()));
+    private void readWordFile(Path stopWordFile, Path pucFile){
+        Configuration conf = new Configuration();
+        try{
+            FileSystem fs = FileSystem.get(URI.create(stopWordFile.toString()),conf);
+            InputStream is = fs.open(new Path(stopWordFile.toString()));
+            BufferedReader reader = new BufferedReader(new InputStreamReader(is));
             String stopWord = null;
-            while ((stopWord = fis1.readLine()) != null) {
+            while ((stopWord = reader.readLine()) != null) {
                 stopWordList.add(stopWord);
             }
-        } catch (IOException ioe) {
-            System.err.println("Exception while reading stop word file '"
-                    + stopWordFile + "' : " + ioe.toString());
+        }catch (IOException ioe){
+            ioe.printStackTrace();
         }
         try{
-            BufferedReader fis2 = new BufferedReader(new FileReader(pucFile.toString()));
+            FileSystem fs = FileSystem.get(URI.create(pucFile.toString()),conf);
+            InputStream is = fs.open(new Path(pucFile.toString()));
+            BufferedReader reader = new BufferedReader(new InputStreamReader(is));
             String pucWord = null;
-            while ((pucWord = fis2.readLine()) != null) {
+            while ((pucWord = reader.readLine()) != null) {
                 puncWordList.add(pucWord);
             }
-        } catch (IOException ioe) {
-            System.err.println("Exception while reading punc word file '"
-                    + pucFile + "' : " + ioe.toString());
+        }catch (IOException ioe){
+            ioe.printStackTrace();
         }
     }
+
+//    private void readWordFile(Path stopWordFile, Path pucFile) {
+//        try {
+//            BufferedReader fis1 = new BufferedReader(new FileReader(stopWordFile.toString()));
+//            String stopWord = null;
+//            while ((stopWord = fis1.readLine()) != null) {
+//                stopWordList.add(stopWord);
+//            }
+//        } catch (IOException ioe) {
+//            System.err.println("Exception while reading stop word file '"
+//                    + stopWordFile + "' : " + ioe.toString());
+//        }
+//        try{
+//            BufferedReader fis2 = new BufferedReader(new FileReader(pucFile.toString()));
+//            String pucWord = null;
+//            while ((pucWord = fis2.readLine()) != null) {
+//                puncWordList.add(pucWord);
+//            }
+//        } catch (IOException ioe) {
+//            System.err.println("Exception while reading punc word file '"
+//                    + pucFile + "' : " + ioe.toString());
+//        }
+//    }
 
     public void map(LongWritable key, Text value, Context context)
             throws IOException, InterruptedException {
@@ -95,12 +95,11 @@ public class WCMapper extends Mapper<LongWritable, Text, Text, LongWritable> {
             Matcher matcher = pattern.matcher(token);
             token = matcher.replaceAll("").trim();
 //            token = token.replaceAll("[\\pP\\p{Punct}]","");
-            if (token.length() >= 3 && !stopWordList.contains(token) && !puncWordList.contains(token)) {
-//            if (token.length() >= 3 && !stopWordList.contains(token)) {
+            if (token.length() >= 3 && !puncWordList.contains(token)) {
                 for(String puncWord: puncWordList){
                     token = token.replace(puncWord.substring(1), "");
                 }
-                if(token.length() >= 3){
+                if(token.length() >= 3 && !stopWordList.contains(token)){
                     word.set(token);
                     context.write(word, new LongWritable(1));
                 }
