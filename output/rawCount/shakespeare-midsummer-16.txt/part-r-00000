@@ -38,6 +38,7 @@ affection	2
 affright	1
 afraid	2
 aftersupper	1
+again	11
 age	1
 aggravate	1
 aim	1
@@ -45,7 +46,10 @@ air	3
 airy	2
 alack	4
 ale	1
+all	6
 almanac	1
+alone	4
+along	1
 aloof	1
 altar	1
 alter	2
@@ -61,6 +65,7 @@ amiss	1
 amity	1
 amorous	1
 ancient	2
+and	23
 angel	1
 anger	1
 angry	2
@@ -90,6 +95,7 @@ approve	1
 apricocks	1
 apt	1
 archery	1
+are	1
 argument	1
 ariadne	1
 aright	1
@@ -138,6 +144,7 @@ awhile	3
 aye	3
 bacchanals	1
 bachelor	1
+back	2
 badge	1
 bait	1
 balance	1
@@ -180,6 +187,7 @@ bedtime	1
 beetles	1
 befal	1
 befall	2
+before	1
 beg	6
 beggary	1
 beggd	1
@@ -189,6 +197,7 @@ begone	1
 beguile	2
 beguiled	2
 behalf	1
+behind	2
 behold	3
 behowls	1
 believe	5
@@ -214,6 +223,7 @@ bewitchd	1
 bid	4
 bide	1
 bigbellied	1
+bill	1
 bird	3
 bitter	4
 black	4
@@ -252,7 +262,9 @@ bored	1
 born	2
 bosom	2
 bosoms	4
+both	2
 bottle	1
+bottom	14
 bottoms	2
 bouncing	1
 bounds	1
@@ -311,16 +323,19 @@ bushes	1
 business	2
 buskind	1
 busy	1
+but	17
 butterflies	1
 buy	1
 buys	1
 byr	1
 cadmus	1
 calendar	2
+call	2
 calld	1
 called	1
 calls	2
 came	10
+can	2
 candle	1
 cankerblossom	1
 cankers	1
@@ -473,6 +488,7 @@ corn	2
 coronet	1
 costs	1
 cough	1
+could	2
 couldst	1
 counsel	3
 counsels	1
@@ -527,6 +543,7 @@ crows	1
 cruel	3
 cruelty	1
 crush	2
+cry	1
 crystal	1
 cuckoo	2
 cue	4
@@ -653,6 +670,7 @@ dogged	1
 doing	1
 dole	1
 dolphins	1
+done	3
 door	1
 dost	5
 dotage	1
@@ -666,6 +684,7 @@ doubt	4
 dove	4
 doves	1
 dowager	2
+down	6
 downright	1
 dragons	1
 dramatis	1
@@ -700,6 +719,7 @@ dwarf	1
 dwarfish	1
 dwell	1
 dye	1
+each	1
 ear	8
 early	1
 earnest	1
@@ -718,6 +738,7 @@ effect	2
 egeus	17
 eglantine	1
 egypt	1
+eight	1
 eke	1
 elf	1
 elm	1
@@ -736,6 +757,7 @@ enforced	1
 engaged	1
 engilds	1
 enmity	1
+enough	6
 enrich	1
 enrings	1
 ensue	1
@@ -763,6 +785,7 @@ eunuch	1
 evening	1
 everlasting	1
 evermore	2
+everywhere	1
 evils	1
 examine	1
 excellent	2
@@ -861,11 +884,14 @@ filchd	1
 filld	1
 filly	1
 finch	1
+find	1
 finds	2
 fine	3
 finger	1
 fingers	3
 finishd	1
+fire	4
+first	5
 fit	3
 fitted	2
 fixed	1
@@ -906,6 +932,7 @@ fool	2
 foolish	3
 fools	2
 foot	1
+for	10
 forbid	2
 force	4
 fordone	1
@@ -927,8 +954,10 @@ fortunately	1
 fortunes	1
 forward	2
 foul	1
+found	1
 fountain	2
 fountains	1
+four	1
 fowler	1
 fox	3
 fragrant	1
@@ -956,6 +985,7 @@ fruitless	2
 function	1
 funerals	1
 furies	1
+further	1
 fury	1
 gait	3
 gallant	2
@@ -1049,6 +1079,7 @@ guestwise	1
 guilty	1
 guns	1
 habitation	1
+had	1
 hadbut	1
 hail	5
 haild	1
@@ -1087,6 +1118,7 @@ hats	1
 haunt	1
 haunted	2
 haunts	1
+have	1
 having	1
 hawthorn	1
 hawthornbrake	1
@@ -1119,17 +1151,21 @@ helens	1
 hell	6
 help	6
 hempen	1
+hence	9
 henceforth	1
 henchman	1
+her	13
 heraldry	1
 herb	4
 hercules	2
+here	27
 heres	1
 heresies	1
 heresy	1
 hermia	96
 hermias	7
 hernia	1
+hers	2
 herself	1
 hide	4
 hie	1
@@ -1138,12 +1174,14 @@ high	4
 highness	1
 hight	1
 hill	2
+him	16
 himself	7
 hind	1
 hindering	1
 hinders	1
 hippolyta	26
 hips	1
+his	1
 history	1
 hit	1
 hither	6
@@ -1217,6 +1255,7 @@ imprinted	1
 inconstant	1
 incorporate	1
 increase	1
+indeed	2
 india	1
 indian	3
 ingod	1
@@ -1421,6 +1460,7 @@ lying	3
 lysander	100
 lysanders	4
 mad	2
+made	1
 madly	3
 madman	1
 madmen	1
@@ -1459,6 +1499,7 @@ master	8
 masters	7
 match	1
 matchd	1
+may	3
 maypole	1
 mayst	1
 mazed	1
@@ -1504,6 +1545,7 @@ middle	1
 midnight	3
 midst	1
 midsummer	10
+might	3
 mighty	1
 mild	2
 mile	1
@@ -1514,6 +1556,7 @@ mimic	1
 mind	4
 minding	1
 minds	4
+mine	8
 minimus	1
 minute	1
 minutes	2
@@ -1552,6 +1595,7 @@ moonlight	6
 moons	1
 moonshine	15
 moral	1
+more	8
 morn	2
 morning	3
 mornings	1
@@ -1559,6 +1603,7 @@ morris	1
 morrow	2
 mortal	4
 mortals	3
+most	3
 mote	1
 moth	6
 mother	3
@@ -1572,6 +1617,8 @@ mouse	2
 moused	1
 mouth	2
 mouths	1
+move	1
+much	3
 mud	1
 muddy	1
 mulberries	1
@@ -1591,6 +1638,7 @@ mustardseed	14
 mutual	1
 myself	5
 nails	2
+name	9
 names	1
 nativity	2
 natural	1
@@ -1612,13 +1660,16 @@ negligence	1
 neigh	1
 neighbours	2
 neighing	1
+neither	1
 neptune	1
 neptunes	1
 nest	1
+never	3
 new	6
 newbent	1
 news	2
 newts	1
+next	1
 nick	2
 nigh	2
 night	43
@@ -1637,13 +1688,17 @@ nodding	1
 nointed	1
 noise	2
 nole	1
+none	4
 noontide	1
 nose	1
 nosegays	1
+not	18
 notably	1
 note	4
+nothing	5
 notwithstanding	1
 nought	1
+now	19
 nowadays	1
 nowhich	1
 number	1
@@ -1674,6 +1729,7 @@ oer	10
 oerlook	1
 oerrules	1
 oes	1
+off	4
 offence	1
 offend	3
 offended	1
@@ -1683,6 +1739,8 @@ officious	1
 oft	2
 oftener	1
 old	6
+once	3
+one	4
 onions	1
 open	1
 opening	1
@@ -1693,10 +1751,13 @@ orbs	1
 order	1
 orient	1
 original	1
+other	2
 ought	2
 ounce	1
 ousel	1
+out	8
 outsleep	1
+over	2
 overbear	1
 overborne	1
 overcanopied	1
@@ -1707,6 +1768,7 @@ overhear	1
 overwatchd	1
 owe	2
 owl	1
+own	4
 owner	1
 oxbeef	1
 oxlips	1
@@ -1731,6 +1793,7 @@ pardon	3
 parents	1
 park	1
 parlous	1
+part	5
 parted	3
 parting	2
 partition	2
@@ -1773,6 +1836,7 @@ perfect	3
 perforce	4
 performd	1
 performing	1
+perhaps	1
 perigenia	1
 peril	3
 periods	1
@@ -1818,6 +1882,7 @@ playing	2
 plays	1
 plead	1
 pleading	1
+please	1
 pleasure	2
 plot	1
 ploughman	2
@@ -1927,6 +1992,7 @@ rare	2
 rarely	1
 rash	1
 rate	1
+rather	1
 rattling	1
 raven	1
 ravished	1
@@ -2038,6 +2104,7 @@ sails	1
 saint	1
 sake	6
 salt	2
+same	1
 sampler	1
 sanded	1
 sands	1
@@ -2079,6 +2146,7 @@ season	1
 seasons	1
 seat	1
 secretly	1
+see	10
 seeing	1
 seek	6
 seeking	1
@@ -2125,6 +2193,7 @@ shapes	1
 shaping	1
 shared	1
 sharp	1
+she	6
 shears	1
 shed	1
 sheen	1
@@ -2145,6 +2214,7 @@ shore	1
 short	2
 shot	1
 shout	1
+show	2
 showers	1
 shown	1
 shows	1
@@ -2156,6 +2226,7 @@ shun	1
 shuts	1
 sick	2
 sickness	3
+side	4
 sides	2
 siege	1
 sighs	2
@@ -2183,6 +2254,7 @@ sister	1
 sisters	2
 sit	2
 sitting	1
+six	1
 sixpence	4
 skies	1
 skill	3
@@ -2309,6 +2381,7 @@ stepdame	1
 steppe	1
 stern	1
 stick	1
+still	3
 stir	4
 stirring	1
 stolen	8
@@ -2376,6 +2449,7 @@ swords	1
 swore	1
 sympathy	1
 tailor	3
+take	2
 takes	3
 takest	1
 tale	2
@@ -2414,15 +2488,24 @@ terribly	1
 testy	1
 thank	3
 thanks	4
+that	10
 thats	1
+the	5
 thebes	1
 thee	64
 theirs	1
+them	2
 theme	1
+themselves	1
+then	12
+there	9
+therefore	6
 thereof	1
+these	1
 theseus	67
 thessalian	1
 thessaly	1
+they	2
 thickskin	1
 thief	1
 thighs	1
@@ -2432,6 +2515,7 @@ things	16
 think	14
 thinkfor	1
 thinks	1
+this	6
 thisbe	21
 thisbes	2
 thisby	23
@@ -2445,6 +2529,7 @@ thorns	2
 thorny	1
 thorough	5
 thou	116
+though	2
 thought	5
 thoughts	2
 thousand	1
@@ -2452,16 +2537,19 @@ thracian	1
 thread	2
 threatend	1
 threats	1
+three	3
 threefoot	1
 thrice	1
 thriceblessed	1
 throned	1
 throstle	1
 throttle	1
+through	1
 throw	1
 throws	1
 thrum	1
 thunder	1
+thus	9
 thy	65
 thyme	1
 tickle	1
@@ -2478,6 +2566,7 @@ tis	5
 titania	41
 titanias	1
 title	1
+together	4
 toild	1
 told	6
 toldst	1
@@ -2489,13 +2578,16 @@ tongue	12
 tongues	2
 tonguetied	1
 tonight	1
+too	11
 took	2
+top	1
 topples	1
 torment	1
 torn	1
 torturing	1
 touch	2
 touching	1
+toward	1
 town	4
 toys	1
 trace	1
@@ -2542,6 +2634,7 @@ turn	6
 turnd	4
 turns	3
 twain	1
+twelve	1
 twere	2
 tyrant	2
 tyrants	1
@@ -2572,6 +2665,7 @@ unto	10
 unwished	1
 unworthy	1
 upbraid	1
+upon	3
 urged	1
 usa	1
 use	5
@@ -2643,6 +2737,7 @@ warning	1
 warrant	1
 warrior	1
 wars	1
+was	2
 wasand	1
 washd	1
 washes	1
@@ -2674,18 +2769,23 @@ weigh	3
 welcome	4
 welcomes	1
 welkin	1
+well	19
 wend	1
 went	1
 west	1
 western	2
+what	15
 whats	3
 wheat	1
+where	1
 whereat	1
 wherefore	5
 whereon	1
 wheres	3
 wheresoeer	1
 whereto	1
+whether	1
+which	2
 whiles	1
 whilst	2
 whip	1
@@ -2693,6 +2793,7 @@ whisper	4
 whistling	1
 whit	1
 white	2
+why	8
 wicked	2
 wide	2
 widow	1
@@ -2702,6 +2803,7 @@ wildest	2
 wildfowl	1
 wilful	1
 wilfully	1
+will	12
 willfully	1
 wilt	7
 wind	5
@@ -2722,6 +2824,7 @@ withdraw	1
 witherd	1
 withering	2
 withholds	1
+within	2
 witnesseth	1
 wits	1
 wittiest	1
@@ -2757,6 +2860,7 @@ worth	1
 worthier	2
 worthy	1
 wot	2
+would	2
 wound	3
 wrap	1
 wrath	1
@@ -2773,13 +2877,17 @@ yea	4
 years	1
 yellow	4
 yes	2
+yet	6
 yield	3
 yielders	1
 yielding	1
 yields	1
 yoke	2
 yonder	4
+you	63
 young	7
 younot	1
 youor	2
+yours	1
+yourselves	3
 youth	7

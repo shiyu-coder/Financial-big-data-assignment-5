@@ -5,6 +5,8 @@ abilities	2
 ability	1
 aboard	1
 abode	1
+about	1
+above	3
 abroad	2
 absence	3
 absent	2
@@ -61,6 +63,8 @@ affordeth	1
 affright	1
 affrighted	1
 afraid	1
+after	4
+again	22
 againno	1
 age	1
 agnise	1
@@ -76,13 +80,16 @@ albeit	1
 alehouse	1
 aleppo	1
 alive	2
+all	17
 allhe	1
 allowance	2
 allowed	1
 alls	2
 almain	1
 alms	1
+alone	3
 aloud	2
+already	7
 alteration	1
 alterd	1
 altogether	1
@@ -95,6 +102,7 @@ amiable	1
 amiss	2
 amorous	1
 ancient	10
+and	22
 anew	1
 angel	2
 angelo	1
@@ -103,6 +111,7 @@ angerd	1
 angry	6
 anguish	1
 anon	4
+another	3
 anothers	1
 answer	10
 answerable	1
@@ -125,6 +134,7 @@ approved	4
 apt	4
 arabian	1
 archmock	1
+are	4
 area	1
 argues	1
 arise	4
@@ -174,6 +184,7 @@ awhile	5
 awooing	1
 babes	1
 baboon	1
+back	6
 backs	1
 backward	1
 bad	5
@@ -221,6 +232,7 @@ beds	2
 beer	1
 befallen	1
 befalln	1
+before	6
 beg	1
 began	2
 begant	1
@@ -237,6 +249,7 @@ beguiled	2
 behalf	2
 behaved	1
 behavior	1
+behind	4
 behold	5
 belch	1
 beleed	1
@@ -251,6 +264,7 @@ belldiablo	1
 bells	1
 belongd	1
 beloved	1
+below	1
 bending	1
 beneath	2
 beneficial	1
@@ -258,6 +272,7 @@ benefit	2
 bereft	1
 beseech	13
 beshrew	3
+besides	3
 besort	1
 best	18
 bestial	1
@@ -388,6 +403,7 @@ burning	3
 burst	1
 business	12
 busy	3
+but	19
 butdost	1
 butt	1
 buys	1
@@ -395,6 +411,7 @@ cable	1
 cables	1
 caesar	1
 caitiff	2
+call	2
 callat	1
 calld	8
 calling	1
@@ -403,9 +420,11 @@ calmd	1
 calms	1
 came	9
 camp	1
+can	1
 canakin	2
 cannibals	1
 cannon	1
+cannot	2
 canst	4
 capable	1
 cape	1
@@ -660,6 +679,7 @@ crown	2
 cruel	3
 cruelty	1
 crusadoes	1
+cry	3
 crying	3
 cuckold	4
 cudgelled	1
@@ -869,6 +889,7 @@ dog	7
 doing	2
 dolt	1
 domestic	1
+done	13
 door	6
 doors	3
 dost	28
@@ -882,6 +903,7 @@ double	4
 doubt	8
 doubtless	1
 doubts	1
+down	3
 downright	1
 dozen	2
 dram	1
@@ -956,6 +978,8 @@ egyptian	1
 elbow	1
 election	1
 elements	4
+eleven	1
+else	4
 embarkd	1
 embayd	1
 embraced	1
@@ -963,6 +987,7 @@ emilia	138
 eminent	1
 emperors	1
 employ	1
+empty	1
 encave	1
 enchafed	1
 enchanted	1
@@ -981,6 +1006,7 @@ englishman	1
 engluts	1
 enjoy	2
 enmesh	1
+enough	6
 enriches	1
 enshelterd	1
 ensnare	1
@@ -1014,6 +1040,7 @@ eternal	2
 evades	1
 evend	1
 events	1
+ever	7
 everburning	1
 everfixed	1
 evermore	2
@@ -1145,7 +1172,9 @@ fine	2
 fineless	1
 finger	3
 fingers	2
+fire	3
 firm	1
+first	7
 fit	9
 fitchew	1
 fix	1
@@ -1184,6 +1213,7 @@ foolishly	1
 fools	4
 foot	1
 footing	1
+for	16
 forbear	2
 forbid	4
 forced	2
@@ -1212,8 +1242,10 @@ fortitude	1
 fortunately	1
 fortune	10
 fortunes	11
+forty	1
 foul	18
 fouler	1
+found	2
 founded	1
 fountain	1
 fourth	2
@@ -1240,11 +1272,13 @@ fruit	1
 fruitful	1
 fruitfulness	1
 fruits	2
+full	2
 fuller	1
 fulsome	1
 fun	1
 function	2
 furnish	1
+further	2
 fury	2
 fustian	1
 futurity	1
@@ -1290,6 +1324,7 @@ gibes	1
 gift	2
 gifts	1
 girl	2
+give	2
 given	6
 gives	6
 givest	1
@@ -1419,6 +1454,7 @@ harlotry	1
 harm	5
 harmd	1
 harsh	1
+has	2
 hast	19
 haste	2
 hasteposthaste	1
@@ -1428,6 +1464,7 @@ hath	67
 haunt	2
 haunting	1
 haunts	1
+have	5
 havet	3
 having	5
 hazard	1
@@ -1467,12 +1504,17 @@ helm	1
 help	23
 helpd	1
 hem	1
+hence	3
 heo	1
+her	63
 herald	3
 heraldry	1
 herbs	1
+here	23
 hereabout	2
+hereafter	1
 heres	7
+hers	3
 herself	5
 hes	18
 hevillain	1
@@ -1486,11 +1528,13 @@ hies	1
 high	6
 highwrought	1
 hills	2
+him	79
 himself	9
 hinge	1
 hint	2
 hip	1
 hire	1
+his	3
 history	2
 hither	12
 hitherto	1
@@ -1532,6 +1576,7 @@ houseaffairs	1
 housewife	1
 housewifery	1
 housewives	2
+how	9
 howbeit	1
 howling	1
 huge	2
@@ -1544,6 +1589,7 @@ humbled	1
 humbly	7
 humour	2
 humours	1
+hundred	1
 hunger	1
 hungerly	1
 hunt	1
@@ -1603,6 +1649,7 @@ incontinently	1
 incorporate	1
 increase	1
 incur	2
+indeed	25
 index	1
 indian	1
 indicted	1
@@ -1667,6 +1714,7 @@ issues	1
 ist	18
 itch	1
 iteration	1
+its	2
 itself	10
 janus	1
 jealous	13
@@ -1757,6 +1805,7 @@ larger	1
 las	1
 lascivious	1
 lash	1
+last	2
 late	2
 lately	1
 latest	1
@@ -1777,6 +1826,7 @@ leagued	1
 leapd	1
 learn	2
 learned	2
+least	2
 leave	19
 leavet	1
 lechery	1
@@ -1881,6 +1931,7 @@ luststaind	1
 lusty	1
 mad	6
 madam	14
+made	1
 madness	3
 magic	3
 magnifico	1
@@ -1910,6 +1961,7 @@ manifest	1
 manners	4
 mans	4
 manured	1
+many	2
 marble	1
 marcus	1
 mark	7
@@ -1933,6 +1985,7 @@ matching	1
 matter	25
 matters	1
 mauritania	1
+may	6
 mazzard	1
 mean	13
 meaning	1
@@ -1978,6 +2031,7 @@ millions	1
 mince	1
 mind	11
 minds	3
+mine	6
 mineral	1
 minerals	1
 mines	2
@@ -2025,11 +2079,13 @@ moors	2
 moorships	1
 moorweret	1
 moraler	1
+more	14
 morn	2
 morning	4
 morrow	2
 mortal	5
 mortise	1
+most	2
 moth	1
 mother	4
 motion	3
@@ -2042,6 +2098,7 @@ mouth	3
 mouths	3
 moved	5
 moving	2
+much	8
 mummy	1
 murder	13
 murderd	3
@@ -2053,12 +2110,14 @@ muse	1
 music	6
 musician	7
 musicians	3
+must	2
 mutiny	2
 mutter	1
 mutualities	1
 myself	22
 mystery	2
 naked	4
+name	3
 naming	1
 napkin	3
 naples	1
@@ -2082,10 +2141,12 @@ neglecting	1
 negligence	2
 neigh	1
 neighing	1
+neither	2
 nephews	1
 net	1
 nether	2
 nettles	1
+never	4
 new	4
 newcreate	1
 newer	1
@@ -2103,15 +2164,19 @@ nightly	2
 nights	1
 nobility	1
 noble	21
+nobody	2
 noise	6
+none	8
 nonsuits	1
 noon	1
 north	1
 nose	4
 noses	1
+not	40
 notable	2
 note	3
 noted	1
+nothing	10
 notice	1
 notify	1
 notorious	2
@@ -2119,6 +2184,7 @@ notthat	1
 notwithstanding	1
 nought	4
 nourishing	1
+now	66
 noyes	1
 numberd	1
 nuptial	1
@@ -2146,6 +2212,7 @@ odious	1
 oer	6
 oerbearing	1
 oerwhelmed	1
+off	4
 offcappd	1
 offence	7
 offenceless	1
@@ -2160,9 +2227,12 @@ officer	10
 officers	8
 offices	1
 oft	9
+often	2
 old	9
 olympushigh	1
 omit	1
+once	1
+one	11
 ones	7
 ont	6
 ope	1
@@ -2176,8 +2246,13 @@ oppresses	1
 order	1
 othello	339
 othellos	11
+other	5
+others	4
+otherwise	1
 ottoman	1
 ottomites	3
+ours	1
+out	16
 outlive	1
 outran	1
 outsport	1
@@ -2187,6 +2262,7 @@ overt	1
 overthrow	1
 owe	2
 owedst	1
+own	2
 pace	1
 paddle	1
 pagans	1
@@ -2210,6 +2286,7 @@ pardon	11
 parley	1
 parlors	1
 parrot	1
+part	2
 parted	4
 partially	1
 particular	1
@@ -2304,6 +2381,7 @@ players	1
 plays	1
 pleads	1
 pleasance	1
+please	3
 pleased	2
 pleases	1
 pleasure	8
@@ -2505,6 +2583,7 @@ rapier	1
 rascal	1
 rascals	1
 rash	4
+rather	2
 raven	1
 reach	1
 reachd	1
@@ -2659,6 +2738,7 @@ saints	1
 sake	4
 salmons	1
 salt	4
+same	1
 sanctified	1
 sanctimony	1
 sands	1
@@ -2715,9 +2795,13 @@ second	14
 secrets	1
 sect	1
 secure	3
+see	5
 seeing	2
 seek	7
+seem	2
 seemd	1
+seeming	2
+seems	2
 seen	14
 seent	1
 sees	2
@@ -2771,6 +2855,7 @@ shames	1
 shape	1
 shapes	1
 shared	1
+she	5
 shed	1
 sheets	5
 sheld	1
@@ -2786,6 +2871,7 @@ short	1
 shorter	1
 shortly	3
 shot	2
+should	2
 shoulders	1
 shouldst	3
 showd	1
@@ -2799,6 +2885,7 @@ shunned	1
 shut	3
 sibyl	1
 sick	1
+side	4
 sides	2
 siege	1
 sieges	1
@@ -2882,6 +2969,7 @@ solicitation	1
 soliciting	1
 solicitor	1
 solid	1
+something	4
 son	1
 song	5
 soninlaw	1
@@ -2966,6 +3054,7 @@ sterile	1
 stick	1
 sticks	1
 stifles	1
+still	3
 stillness	1
 stings	1
 stir	2
@@ -3023,6 +3112,7 @@ subtle	2
 succeed	1
 succeeds	1
 success	1
+such	3
 suckle	1
 sudden	2
 sue	3
@@ -3100,6 +3190,7 @@ tail	2
 tailor	1
 taint	2
 tainting	1
+take	1
 taken	3
 takes	3
 tale	5
@@ -3142,15 +3233,25 @@ test	1
 thank	9
 thankd	1
 thanks	2
+that	34
 thats	24
+the	1
 thee	76
+them	17
 themlist	1
+themselves	2
+then	22
+thence	3
 thenill	1
 theoric	1
+there	15
+therefore	2
 theres	16
 thereto	1
 thereunto	1
 therewith	1
+these	2
+they	6
 thicken	1
 thicklips	1
 thief	3
@@ -3168,7 +3269,9 @@ thinkst	2
 thinkt	1
 thinktell	1
 thinly	1
+third	1
 thirty	1
+this	38
 thisdesdemona	1
 thither	2
 thou	142
@@ -3186,12 +3289,14 @@ thrive	2
 throat	2
 throats	1
 throne	1
+through	1
 throw	4
 throwing	2
 thrown	1
 throws	1
 thrust	2
 thunderprecious	1
+thus	11
 thy	79
 thyme	1
 thyself	6
@@ -3212,6 +3317,7 @@ toads	1
 tocome	1
 today	1
 toged	1
+together	6
 token	5
 told	9
 toldst	2
@@ -3219,6 +3325,7 @@ tomorrow	5
 tongue	6
 tongues	2
 tonight	24
+too	13
 took	3
 tookt	1
 tooth	1
@@ -3294,6 +3401,7 @@ twiggen	1
 twill	4
 twinnd	1
 twixt	3
+two	1
 twould	1
 tying	1
 tyrannous	1
@@ -3361,6 +3469,7 @@ unwholesome	1
 unwitted	1
 unworthy	1
 upbraids	1
+upon	1
 upont	1
 use	7
 used	6
@@ -3439,6 +3548,7 @@ warranty	1
 warrior	2
 wars	7
 wary	2
+was	2
 wash	1
 wast	1
 waste	1
@@ -3475,15 +3585,20 @@ weepst	1
 weighst	1
 weight	1
 welcome	8
+well	52
 wellpainted	1
 wench	2
 went	4
+were	5
 weret	1
 wert	1
 west	1
+what	37
 whateer	1
 whats	19
 wheeling	1
+when	2
+where	4
 wherefore	4
 whereinto	1
 whereof	3
@@ -3491,6 +3606,8 @@ whereon	2
 wheres	2
 wheresoever	1
 whereto	1
+which	4
+while	1
 whiles	1
 whilst	2
 whip	3
@@ -3499,11 +3616,14 @@ whisper	2
 whistle	1
 white	2
 whiter	1
+who	6
 whoeer	1
 wholesome	2
+whom	2
 whore	12
 whoring	1
 whos	4
+why	43
 wicked	1
 wide	1
 wider	1
@@ -3513,6 +3633,7 @@ wifesdid	1
 wight	3
 wild	2
 wildcats	1
+will	11
 willild	1
 willow	18
 wills	3
@@ -3538,9 +3659,12 @@ wishd	2
 wit	12
 witchcraft	3
 witchcraftbut	1
+with	1
 withal	2
 withdraw	3
 wither	1
+within	12
+without	2
 witness	4
 wits	3
 witty	1
@@ -3579,6 +3703,7 @@ worst	6
 worth	4
 worthiness	1
 worthy	11
+would	1
 wouldst	5
 wound	2
 wounds	3
@@ -3605,12 +3730,16 @@ yell	1
 yerkd	1
 yes	7
 yesterday	2
+yet	13
 yield	1
 yoked	1
 yond	2
 yonders	1
+you	148
 youll	7
 young	10
 youre	4
+yours	4
+yourself	4
 youth	5
 zounds	3
