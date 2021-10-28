@@ -52,7 +52,7 @@ Sort.run(topK + "rawCountAll", sort + "all", topK + "all");
 
 通过IDEA将该程序打包成jar包后，可以跨平台运行程序：
 
-![image-20211027100010076](C:\Users\86137\AppData\Roaming\Typora\typora-user-images\image-20211027100010076.png)
+![image1](https://github.com/shiyu-coder/Financial-big-data-assignment-5/blob/master/image/1.png)
 
 配置好后直接编译构建jar包，这里为hdfs-api-exise.jar。
 
@@ -82,7 +82,7 @@ hadoop jar hdfs_api_exise_jar/hdfs-api-exise.jar test.WordCount /user/86137/inpu
 
 程序运行结果可以通过Web端查看，由于一共有40个作品，每个作品通过一个词频统计和一个排序任务得到结果，所有作品的高频词需要通过一个合并任务和一个排序任务得到结果，所以共有40*2+2=82个任务：
 
-![image-20211027093343118](C:\Users\86137\AppData\Roaming\Typora\typora-user-images\image-20211027093343118.png)
+![image2](https://github.com/shiyu-coder/Financial-big-data-assignment-5/blob/master/image/2.png)
 
 ## 性能与可拓展性分析
 
@@ -139,19 +139,19 @@ for(String pattern: patternsToSkip){
 
 在IDEA上编写好程序后，打开File->Project Structure，点击左上方的加号->JAR->From modules with dependencies...
 
-<img src="C:\Users\86137\AppData\Roaming\Typora\typora-user-images\image-20211028090547051.png" alt="image-20211028090547051" style="zoom:80%;" />
+![image3](https://github.com/shiyu-coder/Financial-big-data-assignment-5/blob/master/image/3.png)
 
 Main Class设置为程序的入口类，JAR files from libiaries选择第二项，然后点击OK。
 
-<img src="C:\Users\86137\AppData\Roaming\Typora\typora-user-images\image-20211028090949375.png" alt="image-20211028090949375" style="zoom:80%;" />
+![image4](https://github.com/shiyu-coder/Financial-big-data-assignment-5/blob/master/image/4.png)
 
 打开Build->Build Artifacts，然后Build刚刚创建的Artifact：
 
-<img src="C:\Users\86137\AppData\Roaming\Typora\typora-user-images\image-20211028091139465.png" alt="image-20211028091139465" style="zoom:80%;" />
+![image5](https://github.com/shiyu-coder/Financial-big-data-assignment-5/blob/master/image/5.png)
 
 Build完成后，可以在项目的out目录下找到打包好的jar包：
 
-<img src="C:\Users\86137\AppData\Roaming\Typora\typora-user-images\image-20211028091238851.png" alt="image-20211028091238851" style="zoom:80%;" />
+![image6](https://github.com/shiyu-coder/Financial-big-data-assignment-5/blob/master/image/6.png)
 
 然后将jar包复制到Linux中，在启动Linux上的Hadoop集群后，将jar包和程序执行需要的input文件夹复制到docker的主节点上：
 
