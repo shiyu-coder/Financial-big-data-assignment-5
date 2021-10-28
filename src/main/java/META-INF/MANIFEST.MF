@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Class-Path: woodstox-core-5.0.3.jar commons-collections-3.2.2.jar hado
+ op-hdfs-client-2.9.1.jar accessors-smart-1.2.jar curator-recipes-2.7.
+ 1.jar commons-cli-1.2.jar jackson-jaxrs-1.8.3.jar jaxb-impl-2.2.3-1.j
+ ar xercesImpl-2.9.1.jar jackson-annotations-2.7.0.jar zookeeper-3.4.6
+ .jar hadoop-annotations-2.9.1.jar leveldbjni-all-1.8.jar okio-1.6.0.j
+ ar commons-digester-1.8.jar xml-apis-1.3.04.jar jsp-api-2.1.jar mssql
+ -jdbc-6.2.1.jre7.jar stax2-api-3.1.4.jar jersey-server-1.9.jar common
+ s-beanutils-core-1.8.0.jar commons-lang-2.6.jar apacheds-kerberos-cod
+ ec-2.0.0-M15.jar hadoop-hdfs-2.9.1.jar jettison-1.1.jar commons-beanu
+ tils-1.7.0.jar hadoop-mapreduce-client-shuffle-2.9.1.jar htrace-core4
+ -4.1.0-incubating.jar nimbus-jose-jwt-4.41.1.jar asm-5.0.4.jar common
+ s-compress-1.4.1.jar api-asn1-api-1.0.0-M20.jar commons-configuration
+ -1.6.jar jetty-6.1.26.jar asm-3.1.jar HikariCP-java7-2.4.12.jar apach
+ eds-i18n-2.0.0-M15.jar jsr305-3.0.0.jar jetty-util-6.1.26.jar hamcres
+ t-core-1.3.jar netty-3.6.2.Final.jar jersey-json-1.9.jar hadoop-yarn-
+ registry-2.9.1.jar commons-lang3-3.4.jar commons-logging-1.1.3.jar jc
+ ip-annotations-1.0-1.jar jackson-core-2.7.8.jar hadoop-common-2.9.1.j
+ ar snappy-java-1.0.5.jar slf4j-api-1.7.25.jar okhttp-2.7.5.jar jets3t
+ -0.9.0.jar httpcore-4.4.4.jar activation-1.1.jar gson-2.2.4.jar paran
+ amer-2.3.jar jaxb-api-2.2.2.jar servlet-api-2.5.jar xmlenc-0.52.jar c
+ ommons-codec-1.4.jar java-xmlbuilder-0.4.jar hadoop-yarn-server-commo
+ n-2.9.1.jar junit-4.12.jar hadoop-mapreduce-client-core-2.9.1.jar jac
+ kson-core-asl-1.9.13.jar xz-1.0.jar protobuf-java-2.5.0.jar curator-f
+ ramework-2.7.1.jar jackson-databind-2.7.8.jar jackson-mapper-asl-1.9.
+ 13.jar hadoop-mapreduce-client-common-2.9.1.jar hadoop-auth-2.9.1.jar
+  hadoop-mapreduce-client-app-2.9.1.jar ehcache-3.3.1.jar netty-all-4.
+ 0.23.Final.jar curator-client-2.7.1.jar jackson-xc-1.8.3.jar hadoop-y
+ arn-common-2.9.1.jar httpclient-4.5.2.jar hadoop-yarn-api-2.9.1.jar c
+ ommons-math3-3.1.1.jar commons-daemon-1.0.13.jar avro-1.7.7.jar jerse
+ y-core-1.9.jar slf4j-log4j12-1.7.25.jar hadoop-yarn-client-2.9.1.jar 
+ geronimo-jcache_1.0_spec-1.0-alpha-1.jar commons-io-2.4.jar hadoop-cl
+ ient-2.9.1.jar json-smart-2.3.jar jetty-sslengine-6.1.26.jar guava-11
+ .0.2.jar jsch-0.1.54.jar hadoop-mapreduce-client-jobclient-2.9.1.jar 
+ log4j-1.2.17.jar jersey-client-1.9.jar stax-api-1.0-2.jar commons-net
+ -3.1.jar api-util-1.0.0-M20.jar
+Main-Class: test.WordCount
+
